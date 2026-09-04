@@ -639,6 +639,3 @@ The objective of Mail AI App is to combine traditional email management with loc
 
 The application provides a centralized interface for retrieving, understanding, categorizing, and responding to emails while using Ollama for local AI processing.
 
-
-MIT License
-```
