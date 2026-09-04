@@ -251,8 +251,9 @@ http://localhost:5173
 ## Application Workflow
 
 The application follows the workflow below:
-
-<img width="827" height="685" alt="image" src="https://github.com/user-attachments/assets/d39dfc8a-79cc-440c-9f87-99313f6eaf0f" />
+<center>
+<img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/d39dfc8a-79cc-440c-9f87-99313f6eaf0f" />
+</center>
 
 
 ### Application Screens
