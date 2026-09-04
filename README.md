@@ -1,4 +1,4 @@
-<img width="858" height="582" alt="image" src="https://github.com/user-attachments/assets/6de99e3e-b9ef-44ac-b517-58bbbf7200ec" /># Mail AI App
+# Mail AI App
 
 Mail AI App is a full-stack AI-powered email management application designed to connect with Gmail, retrieve and organize emails, and use a locally hosted Large Language Model (LLM) to analyze email content.
 
@@ -6,7 +6,9 @@ The application provides a unified interface for viewing, searching, filtering, 
 
 ## Application Preview
 
-<img width="1163" height="701" alt="Mail AI App" src="https://github.com/user-attachments/assets/e80ebe6f-76d5-4ac3-bc6d-2a31b2548ba2" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/e80ebe6f-76d5-4ac3-bc6d-2a31b2548ba2" width="600">
+</p>
 
 ## Features
 
@@ -192,7 +194,7 @@ Download the Llama 3.2 model:
 ollama pull llama3.2
 ```
 
-Verify the model:
+Verify the installed model:
 
 ```bash
 ollama list
@@ -289,23 +291,39 @@ Check Gmail Connection
        Summary / Reason
 ```
 
-<img width="1123" height="735" alt="image" src="https://github.com/user-attachments/assets/e6d53b56-7dea-4ca9-9e1a-d0c20b137cfa" />
-<img width="1251" height="728" alt="image" src="https://github.com/user-attachments/assets/4a932c16-ac25-44c9-9fd0-d1363ba9dcda" />
-<img width="981" height="635" alt="image" src="https://github.com/user-attachments/assets/ec0d8a93-fc43-45bc-88b0-9e22eac7bbf8" />
-<img width="858" height="582" alt="image" src="https://github.com/user-attachments/assets/64bcd3b9-8290-4d1c-96f0-4bf3a4a59f4d" />
-<img width="852" height="572" alt="image" src="https://github.com/user-attachments/assets/aee0bc5e-2a17-4772-96c0-74376630df1c" />
+### Application Screens
 
-<img width="1167" height="607" alt="image" src="https://github.com/user-attachments/assets/482af843-b5ac-493c-bc23-e7cb159474e8" />
-<img width="1180" height="510" alt="image" src="https://github.com/user-attachments/assets/1bd807dd-d717-4ada-8801-87575035d43a" />
-<img width="1226" height="682" alt="image" src="https://github.com/user-attachments/assets/4ec77807-d9cc-4cca-b5c3-166c2c87b6ba" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/e6d53b56-7dea-4ca9-9e1a-d0c20b137cfa" width="500">
+</p>
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/4a932c16-ac25-44c9-9fd0-d1363ba9dcda" width="500">
+</p>
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/ec0d8a93-fc43-45bc-88b0-9e22eac7bbf8" width="500">
+</p>
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/64bcd3b9-8290-4d1c-96f0-4bf3a4a59f4d" width="500">
+</p>
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/aee0bc5e-2a17-4772-96c0-74376630df1c" width="500">
+</p>
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/482af843-b5ac-493c-bc23-e7cb159474e8" width="500">
+</p>
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/1bd807dd-d717-4ada-8801-87575035d43a" width="500">
+</p>
 
-
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/4ec77807-d9cc-4cca-b5c3-166c2c87b6ba" width="500">
+</p>
 
 ## Gmail Integration
 
@@ -350,7 +368,7 @@ Search can be performed using:
 * Email snippet
 * Email body
 
-The inbox also provides the following filtering options:
+The inbox provides the following filtering options:
 
 ```text
 All Mails
@@ -622,3 +640,5 @@ The objective of Mail AI App is to combine traditional email management with loc
 The application provides a centralized interface for retrieving, understanding, categorizing, and responding to emails while using Ollama for local AI processing.
 
 
+MIT License
+```
