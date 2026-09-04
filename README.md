@@ -256,7 +256,8 @@ The application follows the workflow below:
 </p>
 
 
-### Application Screens
+
+### Application Screenshorts
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/e6d53b56-7dea-4ca9-9e1a-d0c20b137cfa" width="500">
@@ -283,12 +284,9 @@ The application follows the workflow below:
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/1bd807dd-d717-4ada-8801-87575035d43a" width="500">
+  <img width = "500" alt="image" src="https://github.com/user-attachments/assets/befbcd15-2e77-4529-bb1a-abb12f14a526" />
 </p>
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/4ec77807-d9cc-4cca-b5c3-166c2c87b6ba" width="500">
-</p>
 
 ## Gmail Integration
 
