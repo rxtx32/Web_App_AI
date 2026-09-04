@@ -252,43 +252,8 @@ http://localhost:5173
 
 The application follows the workflow below:
 
-```text
-User Login
-     |
-     v
-Smart Inbox Authentication
-     |
-     v
-Check Gmail Connection
-     |
-     +---- Gmail Connected ----+
-     |                          |
-     |                          v
-     |                    Load Inbox
-     |
-     +---- Gmail Not Connected
-                  |
-                  v
-             Google OAuth
-                  |
-                  v
-          Gmail Authorization
-                  |
-                  v
-             Load Inbox
-                  |
-                  v
-            Select Email
-                  |
-                  v
-        Clean Email Content
-                  |
-                  v
-             AI Analysis
-                  |
-                  v
-       Category / Priority /
-       Summary / Reason
+```<img width="827" height="685" alt="image" src="https://github.com/user-attachments/assets/d39dfc8a-79cc-440c-9f87-99313f6eaf0f" />
+
 ```
 
 ### Application Screens
